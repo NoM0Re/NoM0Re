@@ -22,4 +22,4 @@
 　　　　　.　　　。　　　　　　　　 　 ‍ ‍ ‍ ‍
 　　.　　　　　　　　.　　　　　.　　　　　　　　　　。　　.　　　　　.　　　　　　　　.
 
-![](https://komarev.com/ghpvc/?username=NoM0Re&style=plastic)
+![](https://komarev.com/ghpvc/?username=NoM0Re&style=plastic&color=red)
