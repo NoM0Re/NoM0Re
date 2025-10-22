@@ -25,14 +25,14 @@
 
 | AddOn | Description | Link |
 |--------|--------------|------|
-| **WeakAuras-WotLK** | Backport of WeakAuras for WoW 3.3.5a. Customize and track buffs, debuffs, and more. | [🔗 GitHub](https://github.com/NoM0Re/WeakAuras-WotLK) |
+| **WeakAuras** | Backport of WeakAuras for WoW 3.3.5a. Customize and track buffs, debuffs, and more. | [🔗 GitHub](https://github.com/NoM0Re/WeakAuras-WotLK) |
 | **DalaranAH** | RaidCluster is an addon designed to display clusters of players as counters that increment when players are close to each other. | [🔗 GitHub](https://github.com/NoM0Re/DalaranAH) |
 | **RaidCluster** | Helps organize raid frames and unit clustering for better overview. | [🔗 GitHub](https://github.com/NoM0Re/RaidCluster) |
-| **OmniCC-WotLK** | Cooldown count for everything. | [🔗 GitHub](https://github.com/NoM0Re/OmniCC-WotLK) |
-| **PallyPower Improved 3.3.5** | Improved version of the classic PallyPower. | [🔗 GitHub](https://github.com/NoM0Re/PallyPower-Improved-3.3.5) |
-| **UnifiedProfileManager-WotLK** | Manages addon profiles across characters. | [🔗 GitHub](https://github.com/NoM0Re/UnifiedProfileManager-WotLK) |
-| **ClassicNumbers-WotLK** | Restores the classic floating combat text style. | [🔗 GitHub](https://github.com/NoM0Re/ClassicNumbers-WotLK) |
-| **AddFriend 3.3.5a** | Adds convenient friend-management features. | [🔗 GitHub](https://github.com/NoM0Re/AddFriend-3.3.5a) |
+| **OmniCC** | Cooldown count for everything. | [🔗 GitHub](https://github.com/NoM0Re/OmniCC-WotLK) |
+| **PallyPower Improved** | Improved version of the classic PallyPower. | [🔗 GitHub](https://github.com/NoM0Re/PallyPower-Improved-3.3.5) |
+| **UnifiedProfileManager** | Manages addon profiles across characters. | [🔗 GitHub](https://github.com/NoM0Re/UnifiedProfileManager-WotLK) |
+| **ClassicNumbers** | Restores the classic floating combat text style. | [🔗 GitHub](https://github.com/NoM0Re/ClassicNumbers-WotLK) |
+| **AddFriend** | Adds convenient friend-management features. | [🔗 GitHub](https://github.com/NoM0Re/AddFriend-3.3.5a) |
 | **SharedMedia** | Provides shared fonts, textures, and sounds for other addons. Retail Version. | [🔗 GitHub](https://github.com/NoM0Re/SharedMedia) |
 | **SharedMediaAdditionalFonts** | Adds extra fonts to SharedMedia. Retail Version. | [🔗 GitHub](https://github.com/NoM0Re/SharedMediaAdditionalFonts) |
 
@@ -40,6 +40,6 @@
 
 | Tool | Description | Link |
 |------|--------------|------|
-| **WTF-Folder-AutoSaver** | One-click backup your WTF folder (settings, profiles, etc.). | [🔗 GitHub](https://github.com/NoM0Re/WTF-Folder-AutoSaver) |
+| **WTF Folder AutoSaver** | One-click backup your WTF folder (settings, profiles, etc.). | [🔗 GitHub](https://github.com/NoM0Re/WTF-Folder-AutoSaver) |
 
 ⭐ *If you enjoy these AddOns, consider leaving a star!*
