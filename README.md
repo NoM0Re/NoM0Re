@@ -21,11 +21,11 @@
 |--------|--------------|------|
 | **WoW 3.3.5a AddOns** | Most Useful WoW 3.3.5a AddOns | [🔗 GitHub](https://github.com/NoM0Re/WoW-3.3.5a-Addons) |
 
-## 📦 AddOns (Backports & Own Creations)
+## 📦 3.3.5a AddOns (Backports & Own Creations)
 
 | AddOn | Description | Link |
 |--------|--------------|------|
-| **WeakAuras** | Backport of WeakAuras for WoW 3.3.5a. Customize and track buffs, debuffs, and more. | [🔗 GitHub](https://github.com/NoM0Re/WeakAuras-WotLK) |
+| **WeakAuras** | Customize and track buffs, debuffs, and more. | [🔗 GitHub](https://github.com/NoM0Re/WeakAuras-WotLK) |
 | **DalaranAH** | RaidCluster is an addon designed to display clusters of players as counters that increment when players are close to each other. | [🔗 GitHub](https://github.com/NoM0Re/DalaranAH) |
 | **RaidCluster** | Helps organize raid frames and unit clustering for better overview. | [🔗 GitHub](https://github.com/NoM0Re/RaidCluster) |
 | **OmniCC** | Cooldown count for everything. | [🔗 GitHub](https://github.com/NoM0Re/OmniCC-WotLK) |
