@@ -26,8 +26,8 @@
 | **UnifiedProfileManager** | Manages addon profiles across characters. | [🔗 GitHub](https://github.com/NoM0Re/UnifiedProfileManager-WotLK) |
 | **ClassicNumbers** | Restores the classic floating combat text style. | [🔗 GitHub](https://github.com/NoM0Re/ClassicNumbers-WotLK) |
 | **AddFriend** | Adds convenient friend-management features. | [🔗 GitHub](https://github.com/NoM0Re/AddFriend-3.3.5a) |
-| **SharedMedia** | Provides shared fonts, textures, and sounds for other addons. Retail Version. | [🔗 GitHub](https://github.com/NoM0Re/SharedMedia) |
-| **SharedMediaAdditionalFonts** | Adds extra fonts to SharedMedia. Retail Version. | [🔗 GitHub](https://github.com/NoM0Re/SharedMediaAdditionalFonts) |
+| **SharedMedia** | Provides shared fonts, textures, and sounds for other addons. | [🔗 GitHub](https://github.com/NoM0Re/SharedMedia) |
+| **SharedMediaAdditionalFonts** | Adds extra fonts to SharedMedia. | [🔗 GitHub](https://github.com/NoM0Re/SharedMediaAdditionalFonts) |
 
 ## 🧰 Tools
 
