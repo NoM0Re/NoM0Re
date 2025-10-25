@@ -4,7 +4,7 @@
   💻 IT Specialist | 🧩 WoW AddOn Developer | 🧠 Always Learning
 </p>
 
-[![Discord](https://img.shields.io/discord/259362419372064778?style=flat&logo=discord&label=Discord)](https://discord.gg/UXSc7nt) ![](https://komarev.com/ghpvc/?username=NoM0Re&style=plastic&color=red) [![PayPal](https://img.shields.io/badge/Buy_me_a_coffee-100000?style=flat&logo=PayPal&logoColor=white&labelColor=3b7bbf&color=grey)](https://streamelements.com/nom0ree/tip)
+![](https://komarev.com/ghpvc/?username=NoM0Re&style=plastic&color=red) [![Discord](https://img.shields.io/discord/259362419372064778?style=flat&logo=discord&label=Discord)](https://discord.gg/UXSc7nt) [![PayPal](https://img.shields.io/badge/Buy_me_a_coffee-100000?style=flat&logo=PayPal&logoColor=white&labelColor=3b7bbf&color=grey)](https://streamelements.com/nom0ree/tip)
 
 ## 📁 My AddOns List
 
