@@ -16,6 +16,7 @@
 | AddOn | Description | Link |
 |--------|--------------|------|
 | **WeakAuras** | Customize and track buffs, debuffs, and more. | [🔗 GitHub](https://github.com/NoM0Re/WeakAuras-WotLK) |
+| **Cell** | A World of Warcraft raid frame addon. | [🔗 GitHub](https://github.com/NoM0Re/Cell-WotLK) |
 | **DalaranAH** | Simplifies interactions with the Auction House NPC in Dalaran. | [🔗 GitHub](https://github.com/NoM0Re/DalaranAH) |
 | **RaidCluster** | Helps organize raid frames and unit clustering for better overview. | [🔗 GitHub](https://github.com/NoM0Re/RaidCluster) |
 | **OmniCC** | Cooldown count for everything. | [🔗 GitHub](https://github.com/NoM0Re/OmniCC-WotLK) |
